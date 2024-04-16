@@ -1,0 +1,13 @@
+.info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    margin-top: 5px;
+}
+
+.desc{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
